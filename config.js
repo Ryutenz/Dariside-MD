@@ -59,8 +59,8 @@ global.ownertag = ['6283819082780'] //ur owner tag
 global.ownernummenu = ['6283819082780'] //ur owner number in menu and all
 global.watermark = "" //ur watermark
 global.botscript = "https://github.com/Ryutenz/Lucyfxr-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.linkz1 = "https://chat.whatsapp.com/IcbwpDNV2aNJqLMfh3pfFz"
+global.linkz2 = "https://chat.whatsapp.com/GsuP6Mw4jjs7qm4XtXkwAd"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
