@@ -42,7 +42,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['6283819082780'] //ur owner number
-global.ownername = "Lucyfxr"
+global.ownername = "Unknown"
 global.ytname = "Not Found" //ur yt chanel name
 global.socialm = "Instagram: ryutenzo_" //ur github or insta name
 global.location = "USA, Indonesia, India" //ur location
@@ -54,7 +54,7 @@ global.vidmenu = { url: 'https://telegra.ph/file/f1581593a494cb3793e48.mp4' } //
 global.packname = " "
 global.author = ""
 global.themeemoji = "⚔️"
-global.reactmoji = "🌀"
+global.reactmoji = "🤮"
 global.ownertag = ['6283819082780'] //ur owner tag
 global.ownernummenu = ['6283819082780'] //ur owner number in menu and all
 global.watermark = "" //ur watermark
