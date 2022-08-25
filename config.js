@@ -41,17 +41,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283819082780'] //ur owner number
+global.owner = ['14053494665','6283819082780'] //ur owner number
 global.ownername = "Unknown"
 global.ytname = "Not Found" //ur yt chanel name
 global.socialm = "Instagram: ryutenzo_" //ur github or insta name
-global.location = "USA, Indonesia, India" //ur location
+global.location = "USA" //ur location
 
 //bot bombdy
 global.botname = "Ryutenzo" //ur bot name
 global.websitex = "https://instagram.com/ryutenzo_" //ur website
 global.vidmenu = { url: 'https://telegra.ph/file/f1581593a494cb3793e48.mp4' } //gif and video menu
-global.packname = " "
+global.packname = " ᴅᴀɴᴛᴇ ʙᴏᴛ ᴍᴅ\nBy Ryutenzo\nwa.me/6283819082780 "
 global.author = ""
 global.themeemoji = "⚔️"
 global.reactmoji = "🤮"
