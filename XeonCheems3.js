@@ -9249,9 +9249,9 @@ break
                 } else if (args[0] === 'templateDocument'){
                 setbot.templateImage = false
                 setbot.templateVideo = false
-                setbot.templateGif = false
+                setbot.templateGif = true
                 setbot.templateMsg = false
-                setbot.templateDocument = true
+                setbot.templateDocument = false
                 reply(mess.success)
                 } else {
                 let sections = [
