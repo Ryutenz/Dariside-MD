@@ -9226,9 +9226,9 @@ break
             if (!isCreator) return reply(mess.owner)
             let setbot = db.data.settings[botNumber]
                if (args[0] === 'templateImage'){
-                setbot.templateImage = true
+                setbot.templateImage = false
                 setbot.templateVideo = false
-                setbot.templateGif = false
+                setbot.templateGif = true
                 setbot.templateMsg = false
                 setbot.templateDocument = false
                 reply(mess.success)
